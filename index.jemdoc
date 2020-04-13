@@ -1,0 +1,23 @@
+# jemdoc: menu{MENU} {index.html}
+# jemdoc: title{Krishna C. Balram}
+= [http://www.bristol.ac.uk/engineering/people/krishna-coimbatore-balram/overview.html Krishna C. Balram] 
+
+
+~~~
+{}{img_left}{Homepage_photo_cr.jpg}{alt text} {IMGLINKTARGET}
+Associate Professor in Photonic Quantum Engineering, \n
+[http://www.bristol.ac.uk/engineering/people/krishna-coimbatore-balram/overview.html University of Bristol]
+~~~
+
+~~~
+*Recent Updates* \n
+\n
+April 2020: Can one build photonic integrated circuits approaching the scale and complexity of silicon photonics,
+in [https://www.osapublishing.org/oe/abstract.cfm?uri=oe-28-8-12262 III-Vs?]\n
+\n
+March 2020: What is the optimal material platform for [https://aip.scitation.org/doi/full/10.1063/5.0002709 bottom-up quantum photonics?]\n
+\n
+January 2020: What are the limits and tradeoffs in engineering efficient microwave to optical signal transduction using [https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.13.014027 piezoelectric platforms]?   
+~~~
+
+

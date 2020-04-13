@@ -1,0 +1,171 @@
+# jemdoc: menu{MENU}{kcbalram_pubs.html}
+
+== (in reverse chronological order)
+~~~
+{}{img_left}{GaAs_OE2020_r.jpg}{alt text}{WIDTHpx}{HEIGHTpx}{IMGLINKTARGET}
+*Suspended gallium arsenide platform for building large scale photonic integrated circuits: passive devices*\n
+Pisu Jiang and /Krishna C. Balram/\n
+[https://www.osapublishing.org/oe/abstract.cfm?uri=oe-28-8-12262 Optics Express (2020)]\n
+*Summary*: The spectacular success of silicon-based photonic integrated circuits (PICs) in the past decade naturally begs the question of whether similar fabrication procedures can be applied to other material platforms with more desirable optical properties. In this work, we demonstrate the individual passive components (grating couplers, waveguides, multi-mode interferometers and ring resonators) necessary for building large scale integrated circuits in suspended gallium arsenide (GaAs).
+~~~
+
+~~~
+{}{img_left}{NV_APL2020_r.jpg}{alt text}{WIDTHpx}{HEIGHTpx}{IMGLINKTARGET}
+*Single photon emission and single spin coherence of a nitrogen vacancy center encapsulated in silicon nitride*\n
+Joe Smith, Jorge Monroy-Ruz, John Rarity and /Krishna C. Balram/\n
+[https://aip.scitation.org/doi/full/10.1063/5.0002709 Applied Physics Letters (2020)] *Editor's Pick* \n
+*Summary*: Finding the right material platform for engineering efficient photonic interfaces to solid state emitters has been a long-standing bottleneck for scaling up solid state quantum systems. In this work, we demonstrate that nitrogen rich silicon nitride, with its low auto-fluorescence at visible wavelengths, is a viable quantum photonics platform by showing that nitrogen vacancy centers embedded in nanodiamonds preserve both their quantum optical and spin properties post-encapsulation. 
+~~~
+
+~~~
+{}{img_left}{MTO_PRAppl2020_r.jpg}{alt text}{WIDTHpx}{HEIGHTpx}{IMGLINKTARGET}
+*Microwave-to-Optical Transduction Using a Mechanical Supermode for Coupling Piezoelectric and Optomechanical Resonators*\n
+Marcelo Wu, Emil Zeuthen, /Krishna C. Balram/ and Kartik Srinivasan\n
+[https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.13.014027 Physical Review Applied (2020)]\n
+*Summary*: Spurred by recent developments in quantum information, there has been a lot of interest in the development of quantum transducers for efficient, low-noise, and bidirectional frequency conversion of photons between the microwave and optical domains. We propose to realize such functionality through the coupling of electrical, piezoelectric, and optomechanical resonators. The coupling of the mechanical subsystems enables formation of a resonant mechanical supermode that provides a mechanically mediated, efficient single interface to both the microwave and optical domains. 
+~~~
+
+~~~
+{}{img_left}{GaN_APL2019_r.jpg}{alt text}{WIDTHpx}{HEIGHTpx}{IMGLINKTARGET}
+*High frequency guided mode resonances in mass-loaded, thin film gallium nitride surface acoustic wave devices* \n
+Stefano Valle, Manikant Singh, Martin Cryan, Martin Kuball and /Krishna C. Balram/ \n
+[https://aip.scitation.org/doi/abs/10.1063/1.5123718 Applied Physics Letters (2019)] *Editor's Pick* \n
+*Summary*: We demonstrate high-frequency (>3 GHz), high quality factor radio frequency (RF) resonators in unreleased thin film gallium nitride (GaN) on sapphire and silicon carbide substrates by exploiting acoustic guided mode (Lamb wave) resonances. The GaN platform, with its ability to guide and localize high-frequency sound on the surface of a chip with access to high-performance active devices, will serve as a key building block for monolithically integrated RF front-ends.
+~~~
+
+~~~
+{}{img_left}{GaAs_PRL2019_r.jpg}{alt text}{WIDTHpx}{HEIGHTpx}{IMGLINKTARGET}
+*Elimination of thermomechanical noise in piezoelectric optomechanical crystals* \n
+Hugh Ramp, Bradley Hauer, /Krishna C. Balram/, et al. \n
+[https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.123.093603 Physical Review Letters (2019)] \n
+*Summary*: we eliminate thermomechanical noise in the GHz-frequency mechanical breathing mode of a piezoelectric optomechanical crystal using cryogenic cooling in a dilution refrigerator. We optically measure an average thermal occupancy of the mechanical mode of only 
+0.7 ± 0.4 phonons, providing a path towards low-noise microwave-to-optical conversion in the quantum regime.
+~~~
+
+~~~
+{}{img_left}{AlN_OL2019_r.jpg}{alt text}{WIDTHpx}{HEIGHTpx}{IMGLINKTARGET}
+*High-frequency, resonant acousto-optic modulators fabricated in a MEMS foundry platform* \n
+Stefano Valle and /Krishna C. Balram/ \n
+[https://www.osapublishing.org/ol/abstract.cfm?uri=ol-44-15-3777 Optics Letters (2019)] \n
+*Summary*: We report the design and characterization of high-frequency, resonant acousto-optic modulators (AOMs) in a micro-electro-mechanical systems (MEMS) foundry process. The doubly resonant cavity design, with short acoustic and optical cavity lengths, allows us to measure acousto-optic modulation at GHz frequencies with high modulation efficiency. In contrast to traditional AOMs, these devices rely on the perturbation induced by the displacement of cavity boundaries, which can be significantly enhanced in a suspended geometry.
+~~~
+
+~~~
+{}{img_left}{Roadmap_JPhysD2019_r.jpg}{alt text}{WIDTHpx}{HEIGHTpx}{IMGLINKTARGET}
+*The 2019 surface acoustic waves roadmap: Cavity optomechanics with surface acoustic waves* \n
+Kartik Srinivasan, Marcelo Wu and /Krishna C. Balram/ \n
+[https://iopscience.iop.org/article/10.1088/1361-6463/ab1b04 Journal of Physics D: Applied Physics (2019)] \n
+*Summary*: We summarize the opportunities and potential roadblocks presented by the adoption of piezoelectric material platforms for cavity optomechanics.
+~~~
+
+~~~
+{}{img_left}{SiN_APLPhot2018_r.jpg}{alt text}{WIDTHpx}{HEIGHTpx}{IMGLINKTARGET}
+*Tuning and stabilization of optomechanical crystal cavities through NEMS integration* \n
+Karen E. Grutter, Marcelo I. Davanco, /Krishna C. Balram/, and Kartik Srinivasan \n
+[https://aip.scitation.org/doi/10.1063/1.5042225 APL Photonics (2018)] *Invited article* \n
+*Summary*: We demonstrate the electrostatic tuning and stabilization of optomechanical devices, by integrating a Si3N4 slot-mode optomechanical crystal cavity with a nanoelectromechanical systems element, which controls the displacement of an additional “tuning” beam within the optical near-field of the optomechanical cavity.
+~~~
+
+~~~
+{}{img_left}{GaAs_PRApp2017_r.jpg}{alt text}{WIDTHpx}{HEIGHTpx}{IMGLINKTARGET}
+*Acousto-Optic Modulation and Optoacoustic Gating in Piezo-Optomechanical Circuits* \n
+/Krishna C. Balram/, Marcelo I. Davanço, B. Robert Ilic, Ji-Hoon Kyhm, Jin Dong Song, and Kartik Srinivasan \n
+[https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.7.024008 Physical Review Applied (2017)] \n
+*Summary*: We extend our prior work on piezo-optomechanical circuits by studying dynamical effects in these circuits. We demonstrate acousto-optic modulation and optoacoustic gating (the inverse effect), in which the application of modulated optical pulses interferometrically gates the transmission of propagating acoustic pulses.
+~~~
+
+~~~
+{}{img_left}{GaAs_Optica2017_r.jpg}{alt text}{WIDTHpx}{HEIGHTpx}{IMGLINKTARGET}
+*Efficient fiber-coupled single-photon source based on quantum dots in a photonic-crystal waveguide* \n
+Raphaël S. Daveau, /Krishna C. Balram/, et al. \n
+[https://www.osapublishing.org/optica/abstract.cfm?uri=optica-4-2-178 Optica (2017)] \n
+*Summary*: We demonstrate an efficient fiber-coupled photonic-crystal waveguide (PCWG) based single-photon source by optimizing the evanescent coupling of the light field between the tapered waveguide and a tapered optical fiber. The coupling is robust, stable, and broadband.
+~~~
+
+~~~
+{}{img_left}{CNST_JNIST2016_r.jpg}{alt text}{WIDTHpx}{HEIGHTpx}{IMGLINKTARGET}
+*The Nanolithography Toolbox* \n
+/Krishna C. Balram/ et al., \n
+[https://www.nist.gov/publications/nanolithography-toolbox Journal of Research of the National Institute of Standards and Technology (NIST) (2016)] \n
+*Summary*: We introduce a platform-independent software package for scripted lithography pattern layout generation.
+~~~
+
+~~~
+{}{img_left}{GaAs_NP2016_r.jpg}{alt text}{WIDTHpx}{HEIGHTpx}{IMGLINKTARGET}
+*Coherent coupling between radiofrequency, optical and acoustic waves in piezo-optomechanical circuits* \n
+/Krishna C. Balram/, Marcelo I. Davanço, Jin Dong Song, and Kartik Srinivasan \n
+[https://www.nature.com/articles/nphoton.2016.46 Nature Photonics (2016)] \n
+*Summary*: We develop a platform for nanoscale cavity optomechanical circuits in which optomechanical cavities supporting co-localized 1,550 nm photons and 2.4 GHz phonons are combined with photonic and phononic waveguides.
+~~~
+
+~~~
+{}{img_left}{GaAs_Optica2014_r.jpg}{alt text}{WIDTHpx}{HEIGHTpx}{IMGLINKTARGET}
+*Moving boundary and photoelastic coupling in GaAs optomechanical resonators* \n
+/Krishna C. Balram/, Marcelo I. Davanço, Ju Young Lim, Jin Dong Song, and Kartik Srinivasan \n
+[https://www.osapublishing.org/optica/abstract.cfm?uri=optica-1-6-414 Optica (2014)] \n
+*Summary*: We develop GaAs optomechanical resonators and investigate the relative contributions of moving dielectric boundaries and the photoelastic effect to the optomechanical coupling rate.
+~~~
+
+~~~
+{}{img_left}{SiGe_JLT2013_r.jpg}{alt text}{WIDTHpx}{HEIGHTpx}{IMGLINKTARGET}
+*Surface-Normal Ge-SiGe Asymmetric Fabry–Perot Optical Modulators Fabricated on Silicon Substrates* \n
+Ross M. Audet, Elizabeth H. Edwards, /Krishna C. Balram/ et al. \n
+[https://ieeexplore.ieee.org/abstract/document/6583953 IEEE Journal of Lightwave Technology (2013)] \n
+*Summary*: We demonstrate the first vertical-incidence Ge-SiGe quantum well reflection modulators fabricated entirely on standard silicon substrates. These modulators could help enable massively parallel, free-space optical interconnects to silicon chips.
+~~~
+
+~~~
+{}{img_left}{Ge_OE2013_r.jpg}{alt text}{WIDTHpx}{HEIGHTpx}{IMGLINKTARGET}
+*Nanoscale resonant-cavity-enhanced germanium photodetectors with lithographically defined spectral response for improved performance at telecommunications wavelengths* \n
+/Krishna C. Balram/, Ross M. Audet, and David A. B. Miller \n
+[https://www.osapublishing.org/oe/abstract.cfm?uri=oe-21-8-10228 Optics Express (2013)] \n
+*Summary*: We demonstrate the use of a subwavelength planar metal-dielectric resonant cavity to enhance the absorption of germanium photodetectors at wavelengths beyond the material’s direct absorption edge, enabling high responsivity across the entire telecommunications C and L bands.
+~~~
+
+~~~
+{}{img_left}{SiGE_OME2012_r.jpg}{alt text}{WIDTHpx}{HEIGHTpx}{IMGLINKTARGET}
+*Selective area growth of germanium and germanium-silicon-germanium quantum wells in silicon waveguides for on-chip optical interconnect applications* \n
+S. A. Claussen, /Krishna. C. Balram/, E. T. Fei, T. I. Kamins, J. S. Harris, and D. A. B. Miller \n
+[https://www.osapublishing.org/ome/abstract.cfm?uri=ome-2-10-1336 Optical Materials Express (2012)] \n
+*Summary*: We propose a robust fabrication process for growing Ge and Ge-based heterostructures in growth windows with Si sidewalls which can be applied to growth in thick Si optical waveguides.
+~~~
+
+~~~
+{}{img_left}{Si_OE2012_r.jpg}{alt text}{WIDTHpx}{HEIGHTpx}{IMGLINKTARGET}
+*Self-aligned silicon fins in metallic slits as a platform for planar wavelength-selective nanoscale resonant photodetectors* \n
+/Krishna C. Balram/, and David A. B. Miller \n
+[https://www.osapublishing.org/oe/abstract.cfm?uri=oe-20-20-22735 Optics Express (2012)] \n
+*Summary*: We propose and demonstrate a novel nanoscale resonant metal-semiconductor-metal (MSM) photodetector structure based on silicon fins self-aligned to metallic slits. This geometry allows the center wavelength of the photodetector’s spectral response to be controlled by the silicon fin width, allowing multiple detectors, each sensitive to a different wavelength, to be fabricated in a single-step process.
+~~~
+
+~~~
+{}{img_left}{Si_Nanophotonics2012_r.jpg}{alt text}{WIDTHpx}{HEIGHTpx}{IMGLINKTARGET}
+*Routing and photodetection in subwavelength plasmonic slot waveguides* \n
+Dany-Sebastien Ly-Gagnon, /Krishna C. Balram/, et al. \n
+[https://www.degruyter.com/view/j/nanoph.2012.1.issue-1/nanoph-2012-0002/nanoph-2012-0002.xml Nanophotonics (2012)] \n
+*Summary*: We demonstrate a photodetector linked to a two conductor metallic slot waveguide that supports a mode with a minute cross-sectional area of λ^2/100 and propagation lengths of 10λ (λ = 850 nm).
+~~~
+
+~~~
+{}{img_left}{Ge_OE2011_r.jpg}{alt text}{WIDTHpx}{HEIGHTpx}{IMGLINKTARGET}
+*Strained germanium thin film membrane on silicon substrate for optoelectronics* \n
+Donguk Nam, Devanand Sukhdeo, Arunanshu Roy, /Krishna C. Balram/, et al. \n
+[https://www.osapublishing.org/oe/abstract.cfm?uri=oe-19-27-25866 Optics Express (2011)] \n
+*Summary*: We present a novel method to introduce a sustainable biaxial tensile strain larger than 1% in a thin Ge membrane using a stressor layer integrated on a Si substrate.
+~~~
+
+~~~
+{}{img_left}{Ge_OME2011_r.jpg}{alt text}{WIDTHpx}{HEIGHTpx}{IMGLINKTARGET}
+*Tensile-strained germanium-on-insulator substrate fabrication for silicon-compatible optoelectronics* \n
+J. Raja Jain, Dany-Sebastien Ly-Gagnon, /Krishna C. Balram/, et al. \n
+[https://www.osapublishing.org/ome/abstract.cfm?uri=ome-1-6-1121 Optical Materials Express (2011)] \n
+*Summary*: We present a method to fabricate tensile-strained germanium-on-insulator (GOI) substrates using heteroepitaxy and layer transfer techniques
+~~~
+
+~~~
+{}{img_left}{Si_NL2011_r.jpg}{alt text}{WIDTHpx}{HEIGHTpx}{IMGLINKTARGET}
+*Multiple-Wavelength Focusing of Surface Plasmons with a Nonperiodic Nanoslit Coupler* \n
+Takuo Tanemura, /Krishna C. Balram/, et al. \n
+[https://pubs.acs.org/doi/full/10.1021/nl200938h Nano Letters (2011)] \n
+*Summary*: An array of nanoslits patterned on a thin metal film is used to couple free-space light into surface plasmon polaritons (SPPs) and simultaneously focus different-wavelength SPPs into arbitrary predefined locations in the two-dimensional plane.
+~~~
