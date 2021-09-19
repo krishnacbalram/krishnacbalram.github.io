@@ -1,0 +1,24 @@
+# jemdoc: menu{MENU}{kcbalram_research.html}
+
+== Introduction
+Like almost all research endeavors, nanophotonics has benefitted greatly from Moore’s law, both in the availability of fabrication processes to reliably pattern materials at the few 10s of nm length scale and the development of simulation tools that exploit the significant advances in processing power to accurately model the propagation of light through complex media. The three major areas where I see nanophotonics having the greatest potential impact are information processing, sensing and nano-characterization methods. I plan to focus my research efforts on tackling some of the most pressing issues in these areas.
+ 
+== Exploring non-traditional solutions for on-chip optical interconnects:
+While optics has long been considered the only viable solution for the ‘interconnect bottleneck’ problem, in my view, it still needs to overcome two major challenges :
+- The /coupling/ problem: While a number of solutions (viz. grating couplers, edge couplers) have been investigated for getting light into and out of a chip efficiently, none are ideal from a systems integration perspective (especially considering that real-estate on the device layer is extremely precious and almost all of it will be devoted to information processing). 
+- The /tuning/ problem: Modern microprocessors are fundamentally limited by the amount of heat they can dissipate (~ 200 W). For optics to replace electronics for communication, the individual devices need to satisfy extremely stringent power requirements. While resonators are often used to reduce operating power, due to fabrication imperfections, they almost always need to be thermally tuned which consumes both power and real estate (thermal tuning circuitry).     
+
+== Developing universal sensing platforms based on optical detection and readout:
+Optical sensing methods provide major benefits with regards to sensitivity (especially with high-Q resonators), non-contact free space readout, parallel multiplexing (imaging over a wide field of view) and the availability of high performance sources and detectors at a wide variety of wavelengths. I plan to develop a universal sensing / signal transduction platform, wherein a wide variety of effects, say force, motion, temperature, local fields, strains, magnetism etc. are all sensed by transduction to the optical domain. This would allow us to image a wide variety of phenomenon and study their global evolution and interplay in real-time. 
+
+== Nano-fabrication and nano-characterization methods:
+The almost exclusive reliance on electron beam lithography for nanophotonic device fabrication has limited the commercial impact of nanophotonics, especially for sensing applications where the cost is prohibitive. I intend to study if one can reproducibly make high-Q complex nanophotonic structures (like L3 photonic crystal cavities) over mm2 areas by nano-imprint lithography. In addition, extending 4D (x, y, z and time) optical microscopy techniques to image and quantify not merely the device dimensions but physical properties like defect density, minority carrier lifetime, surface state absorption etc. over mm^2 dimensions has the potential to revolutionize nanophotonics by enabling rapid characterization to determine ideal fabrication process conditions, repeatability etc.
+
+
+
+
+
+
+
+
+
