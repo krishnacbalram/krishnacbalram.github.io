@@ -1,6 +1,48 @@
 # jemdoc: menu{MENU}{kcbalram_pubs.html}
 
 == (in reverse chronological order)
+
+~~~
+{}{img_left}{GaN_PnIC_APL2022.JPG}{alt text}{WIDTHpx}{HEIGHTpx}{IMGLINKTARGET}
+*Gallium nitride phononic integrated circuits platform for GHz frequency acoustic wave devices* \n
+Mahmut Bicer, Stefano Valle, Jacob Brown, Martin Kuball, and /Krishna C. Balram/ \n
+[https://aip.scitation.org/doi/abs/10.1063/5.0082467 Applied Physics Letters (2022)] \n
+Strong transverse confinement of high-frequency sound and low-loss routing in on-chip waveguides will bring new degrees of freedom to manipulate GHz frequency acoustic waves, analogous to the change brought forth by silicon integrated photonics to the routing and manipulation of light on a chip. We demonstrate that high frequency (\>3GHz) sound can be efficiently guided in μm-scale gallium nitride (GaN) waveguides and ring resonators by exploiting the strong velocity contrast available in the GaN on silicon carbide (SiC) platform. 
+~~~
+
+
+~~~
+{}{img_left}{NL_gold_2022.JPG}{alt text}{WIDTHpx}{HEIGHTpx}{IMGLINKTARGET}
+*Smooth Sidewalls on Crystalline Gold through Facet-Selective Anisotropic Reactive Ion Etching: Toward Low-Loss Plasmonic Devices* \n
+Alexander Greenwood, /Krishna C. Balram/ and Henkjan Gersen \n
+[https://pubs.acs.org/doi/full/10.1021/acs.nanolett.1c04405 Nano Letters (2022)] \n
+Quantum plasmonics aims to harness the deeply subwavelength confinement provided by plasmonic devices to engineer more efficient interfaces to quantum systems in particular single emitters. Realizing this vision is hampered by the roughness-induced scattering and loss inherent in most nanofabricated devices. We show evidence of a reactive ion etching process to selectively etch gold along select crystalline facets.
+~~~
+
+~~~
+{}{img_left}{IEEE_TQE_2022.JPG}{alt text}{WIDTHpx}{HEIGHTpx}{IMGLINKTARGET}
+*Timing Constraints Imposed by Classical Digital Control Systems on Photonic Implementations of Measurement-Based Quantum Computing* \n
+John R. Scott and /Krishna C. Balram/\n
+[https://ieeexplore.ieee.org/abstract/document/9779088 IEEE Transactions in Quantum Engineering (2022)]\n
+Most of the architectural research on photonic implementations of measurement-based quantum computing (MBQC) has focused on the quantum resources involved in the problem with the implicit assumption that these will provide the main constraints on system scaling. However, the “flying-qubit” architecture of photonic MBQC requires specific timing constraints that need to be met by the classical control system and their implications for photonic quantum computing.
+~~~
+
+~~~
+{}{img_left}{2022_WileyAdvQT.JPG}{alt text}{WIDTHpx}{HEIGHTpx}{IMGLINKTARGET}
+*Piezoelectric Optomechanical Approaches for Efficient Quantum Microwave-to-Optical Signal Transduction: The Need for Co-Design* \n
+/Krishna C. Balram/, and Kartik Srinivasan\n
+[https://onlinelibrary.wiley.com/doi/abs/10.1002/qute.202100095 Wiley Advanced Quantum Technologies (2022)]\n
+*Summary*: Piezoelectric optomechanical platforms represent one of the most promising routes toward achieving quantum transduction of photons between the microwave and optical frequency domains. However, there are significant challenges to achieving near-unity transduction efficiency. We discuss such factors in the context of the two main approaches being pursued for high efficiency transduction.
+~~~
+
+~~~
+{}{img_left}{PRApplied_NV2021.JPG}{alt text}{WIDTHpx}{HEIGHTpx}{IMGLINKTARGET}
+*Nitrogen-vacancy center coupled to an ultrasmall-mode-volume cavity: A high-efficiency source of indistinguishable photons at 200 K*\n
+Joe Smith, Chloe Clear, /Krishna C. Balram/, Dara McCutcheon and John Rarity\n
+[https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.15.034029 Physical Review Applied (2021)]\n
+*Summary*: Solid-state atomlike systems have great promise for linear optic quantum computing and quantum communication but are burdened by phonon sidebands and broadening due to surface charges. Nevertheless, coupling to a small-mode-volume cavity would allow high rates of extraction from even highly dephased emitters. We consider the nitrogen-vacancy center in diamond, a system understood to have a poor quantum optics interface with highly distinguishable photons, and design a silicon nitride cavity that allows 99\% efficient extraction of photons at 200 K with an indistinguishability of \>50\%, improvable by external filtering.
+~~~
+
 ~~~
 {}{img_left}{GaAs_OE2020_r.jpg}{alt text}{WIDTHpx}{HEIGHTpx}{IMGLINKTARGET}
 *Suspended gallium arsenide platform for building large scale photonic integrated circuits: passive devices*\n
